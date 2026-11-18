@@ -11,3 +11,7 @@ Author: Arul Prasath
 4. Attachments (Image, Audio, video) code
 
 5. Hidding last seen implemented
+
+6. Added audio feature.
+
+7.Added Video Feature
