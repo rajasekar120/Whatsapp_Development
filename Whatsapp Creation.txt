@@ -9,3 +9,5 @@ Author: Arul Prasath
 3. Last seen code
 
 4. Attachments (Image, Audio, video) code
+
+5. Hidding last seen implemented
